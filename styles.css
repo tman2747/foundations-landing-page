@@ -94,6 +94,23 @@ body{
     align-items: center;
 }
 
+.section-three{
+    background-color: #e5e7eb;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.quote{
+    font-size: 36px;
+    color: #1f2937;
+    width: 800px;
+    padding: 20px;
+    font-weight: 400;
+}
+.quote > i{
+    color:rgb(87, 94, 92);
+
+}
 
 .footer{
     background-color: #1f2937;
